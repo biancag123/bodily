@@ -50,7 +50,7 @@ if part == "1":
                 print "Take NSAID (Advil, Aleve, Motrin) as directed on the OTC label if you have not done so already." 
                 print "Limit caffeine and alcohol intake. Reduce stressful activities if possible at this time."
                 print "If symptoms worsen or persist past 48 hours or are recurrent, follow up with your primary care provider." 
-                print "If symptoms become sever, go to ER/urgent care."
+                print "If symptoms become severe, go to ER/urgent care."
                 print
                 print "For more information, go to AAFP clinical guidelines: https://www.aafp.org/afp/2013/0515/p682.html"
 
@@ -60,7 +60,7 @@ if part == "1":
                 print "Take NSAID (Advil, Aleve, Motrin) as directed on the OTC label if you have not done so already." 
                 print "Limit caffeine and alcohol intake. Reduce stressful activities if possible at this time."
                 print "If symptoms worsen or persist past 48 hours or are recurrent, follow up with your primary care provider." 
-                print "If symptoms become sever, go to ER/urgent care."
+                print "If symptoms become severe, go to ER/urgent care."
                 print
                 print "For more information, go to AAFP clinical guidelines: https://www.aafp.org/afp/2013/0515/p682.html"
 
